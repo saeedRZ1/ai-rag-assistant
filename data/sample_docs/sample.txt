@@ -1,0 +1,35 @@
+Artificial Intelligence Overview
+=================================
+
+Artificial intelligence (AI) is the simulation of human intelligence processes by machines,
+especially computer systems. Specific applications of AI include expert systems, natural
+language processing, speech recognition, and machine vision.
+
+Machine Learning
+-----------------
+Machine learning (ML) is a subset of AI that enables systems to learn and improve from
+experience without being explicitly programmed. It focuses on developing computer programs
+that can access data and use it to learn for themselves.
+
+Types of machine learning:
+- Supervised learning: The algorithm learns from labeled training data.
+- Unsupervised learning: The algorithm finds hidden patterns in unlabeled data.
+- Reinforcement learning: The algorithm learns by interacting with an environment.
+
+Deep Learning
+--------------
+Deep learning is a subset of machine learning that uses neural networks with many layers
+(hence "deep") to learn from large amounts of data. It powers applications like image
+recognition, speech recognition, and natural language processing.
+
+Large Language Models (LLMs)
+------------------------------
+Large language models are AI systems trained on massive text datasets that can understand
+and generate human-like text. Examples include GPT-4, Claude, and Gemini. They power
+applications such as chatbots, code generation, and document summarization.
+
+RAG (Retrieval-Augmented Generation)
+--------------------------------------
+RAG is a technique that enhances LLM responses by retrieving relevant documents from a
+knowledge base before generating an answer. This grounds the model's output in real,
+up-to-date information and reduces hallucination.
